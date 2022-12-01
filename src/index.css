@@ -8,7 +8,7 @@ body{
  background:lightgreen;
 }
 section{
- height:600px;
+ height:600px; 
  width:600px;
  position:relative;
  display: flex;
