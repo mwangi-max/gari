@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gari/static/css/main.f5ed2398.css",
+    "main.js": "/gari/static/js/main.74a0add6.js",
+    "index.html": "/gari/index.html",
+    "main.f5ed2398.css.map": "/gari/static/css/main.f5ed2398.css.map",
+    "main.74a0add6.js.map": "/gari/static/js/main.74a0add6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ed2398.css",
+    "static/js/main.74a0add6.js"
+  ]
+}
